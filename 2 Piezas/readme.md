@@ -20,5 +20,5 @@
 | POLE1254 | [Varilla de unión pieza D y pieza C de SISILE.           ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/POLE1254.jpg) |
 | POLE1255 | [Varilla de unión pieza C y pieza B de SISILE.           ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/POLE1255.jpg) |
 | POLE1256 | [Varilla de unión pieza B y pieza A de SISILE.           ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/POLE1256.jpg) |
-| HESU1659 | [Soporte de cabeza.									  ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/HESU1659.png) |
+| HESU2056 | [Soporte de cabeza.									  ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/HESU2056.png) |
 | SEAG1808 | [Mecanismo y acoples para sensores del SIDENA.			  ](https://github.com/cmedinam/VioGarden/tree/develop/2%20Piezas/0%20Docs%20previews/SEAG1808.png) |
